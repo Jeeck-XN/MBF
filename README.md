@@ -13,17 +13,17 @@
 <p align="center">
 <i> <b> Install</b> </i>
 </p>
-        ( pkg update && pkg upgrade
-        ( pkg install git
-        ( pkg install python
-        ( pip install mechanize
-        ( pip install requests
-        ( pip install futures
-        ( pip install bs4
-        ( git clone https://github.com/Jeeck-XN/MBF
-        ( cd Lite
-        ( git pull
-        ( python MBF.py
+              ( pkg update && pkg upgrade
+              ( pkg install git
+              ( pkg install python
+              ( pip install mechanize
+              ( pip install requests
+              ( pip install futures
+              ( pip install bs4
+              ( git clone https://github.com/Jeeck-XN/MBF
+              ( cd Lite
+              ( git pull
+              ( python MBF.py
 <p align="center">
 <i> <b> Pemberi tahuan</b> </i>
 <i> <b> JIKA CRACK SAMPE 1K IDZ MODE PESAWAT 2 DETIK</b> </i>

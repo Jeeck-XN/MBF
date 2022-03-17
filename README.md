@@ -27,14 +27,9 @@
               ( python MBF.py
               
 <p align="center">
-<i> <b> Pemberi tahuan</b> </i>
-<p align="center">
+<i> <b> PEMBERITAHUAN > </i>
 <i> <b> JIKA CRACK SAMPE 1K IDZ MODE PESAWAT 2 DETIK</b> </i>
-</p>
-<p align="center">
 <i> <b> GUANAKAN USER-AGENT YANG COCOK DI HP ANDA </b> </i>
-</p>
-<p align="center">
 <i> <b> ʘ‿ʘʘ‿ʘ</b> </i>
 </p>
 

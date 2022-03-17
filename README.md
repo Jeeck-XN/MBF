@@ -29,12 +29,15 @@
 <p align="center">
 <i> <b> Pemberi tahuan</b> </i>
 <i> <b> JIKA CRACK SAMPE 1K IDZ MODE PESAWAT 2 DETIK</b> </i>
+</p>
 <i> <b> GUANAKAN USER-AGENT YANG COCOK DI HP ANDA </b> </i>
+</p>
 <i> <b> ʘ‿ʘʘ‿ʘ</b> </i>
 </p>
 
 <p align="center">
 <i> <b> INFORMASI </b> </i>
+  
 <i> <b> JANGAN DI SALAH GUANAKAN </b> </i>
 <i> <b> AUTHOR TIDAK BERTANGGUNG JAWAB ATAS APA YANG ANDA SALAH GUNAKAN</b> </i>
 </p>

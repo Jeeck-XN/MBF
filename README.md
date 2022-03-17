@@ -28,6 +28,7 @@
               
 <p align="center">
 <i> <b> Pemberi tahuan</b> </i>
+<p align="center">
 <i> <b> JIKA CRACK SAMPE 1K IDZ MODE PESAWAT 2 DETIK</b> </i>
 </p>
 <p align="center">
@@ -39,8 +40,10 @@
 
 <p align="center">
 <i> <b> INFORMASI </b> </i>
-  
+<p align="center">
 <i> <b> JANGAN DI SALAH GUANAKAN </b> </i>
+<p align="center">
 <i> <b> AUTHOR TIDAK BERTANGGUNG JAWAB ATAS APA YANG ANDA SALAH GUNAKAN</b> </i>
 </p>
+<p align="center">
 <i> <b> JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINATANG NYA:-(</b> </i>

@@ -13,26 +13,17 @@
 <p align="center">
 <i> <b> Install</b> </i>
 </p>
+
               ( pkg update && pkg upgrade
-              
               ( pkg install git
-              
-              ( pkg install pytho
-              
+              ( pkg install python
               ( pip install mechanize
-              
               ( pip install requests
-              
               ( pip install futures
-              
               ( pip install bs4
-              
               ( git clone https://github.com/Jeeck-XN/MBF
-              
-              ( cd Lite
-              
+              ( cd MBF
               ( git pull
-              
               ( python MBF.py
               
 <p align="center">

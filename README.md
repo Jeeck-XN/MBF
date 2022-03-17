@@ -5,7 +5,8 @@
 <p align="center">
 <i> <b> Reults </b> </i>
 </p>
-p align="center"> <p align
+<p align="center"> 
+<p align
 <img src="https://user-images.githubusercontent.com/87571831/158802916-f1460f86-3ea4-4ba1-9b6b-78c4b44bf0a8.jpg">
 </p>
 

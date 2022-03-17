@@ -40,10 +40,8 @@
 
 <p align="center">
 <i> <b> INFORMASI </b> </i>
-<p align="center">
-<i> <b> JANGAN DI SALAH GUANAKAN </b> </i>
-<p align="center">
-<i> <b> AUTHOR TIDAK BERTANGGUNG JAWAB ATAS APA YANG ANDA SALAH GUNAKAN</b> </i>
 </p>
-<p align="center">
+<i> <b> JANGAN DI SALAH GUANAKAN </b> </i>
+<i> <b> AUTHOR TIDAK BERTANGGUNG JAWAB ATAS APA YANG ANDA SALAH GUNAKAN</b> </i>
 <i> <b> JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINATANG NYA:-(</b> </i>
+</p>

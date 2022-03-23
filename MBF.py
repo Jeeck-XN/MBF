@@ -2,7 +2,7 @@
 #coding=utf-8
 
 ################################################################
-# CODING BY MR JEECK X MR RISKY X XENZI X GANZ X YUMASA X ROMI #
+# CODING BY MR JEECK X MR AMIR X XENZI X GANZ X YUMASA X ROMI #
 #      JANGAN BLANG LU ITU MASTAH KALO RECOD TOOLS INI         #
 ################################################################
 #
